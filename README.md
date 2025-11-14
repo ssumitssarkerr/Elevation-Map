@@ -22,6 +22,9 @@ Elevation relative to mean sea level is used to classify areas according to thei
 
 **Key Finding:** Areas with low elevation below 3 m are extremely vulnerable to flooding, storm surges, and sea-level rise, requiring urgent protective measures. Moderate to higher elevation zones from 3 to 10 m and above 10 m offer safer ground for settlements, infrastructure, and strategic planning, making them critical for resilient land use and disaster preparedness.
 
----
+![ELEVATION MAP OF THE STUDY REGION](https://github.com/user-attachments/assets/faa8fca7-1a10-413b-8205-63ffc23aa400)
+
+
+
 
 
